@@ -37,6 +37,7 @@ Successfully verified contract "contracts/WaveHack.sol:WaveHack" for network sep
 ```
 
 # ディレクトリ構成
+```
 erc721-contracts/
  ├ artifacts/        → コンパイル後に出力されたファイルを格納
  ├ cache/            → コンパイル時のキャッシュ
@@ -51,3 +52,4 @@ erc721-contracts/
  ├ package.json
  ├ README.md
  └ tsconfig.json
+```
